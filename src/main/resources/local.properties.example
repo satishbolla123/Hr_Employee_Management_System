@@ -1,0 +1,4 @@
+# Copy this file to local.properties and put your own values
+spring.datasource.password=your-mysql-password
+app.security.admin-password=choose-an-admin-password
+app.security.employee-password=choose-an-employee-password
